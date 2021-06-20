@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qr/c++/design_mode/combine_mode/component.cpp
+component.h
+/home/qr/c++/design_mode/combine_mode/component.h
+
+/home/qr/c++/design_mode/combine_mode/component.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/qr/c++/design_mode/combine_mode/main.cpp
+iostream
+-
+component.h
+/home/qr/c++/design_mode/combine_mode/component.h
+

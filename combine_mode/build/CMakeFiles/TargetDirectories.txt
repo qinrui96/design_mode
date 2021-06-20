@@ -1,0 +1,3 @@
+/home/qr/c++/design_mode/combine_mode/build/CMakeFiles/edit_cache.dir
+/home/qr/c++/design_mode/combine_mode/build/CMakeFiles/combine_mode.dir
+/home/qr/c++/design_mode/combine_mode/build/CMakeFiles/rebuild_cache.dir

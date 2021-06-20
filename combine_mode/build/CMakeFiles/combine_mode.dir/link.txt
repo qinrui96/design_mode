@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/combine_mode.dir/component.cpp.o CMakeFiles/combine_mode.dir/main.cpp.o  -o combine_mode 
